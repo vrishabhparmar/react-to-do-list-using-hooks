@@ -10,6 +10,7 @@
     position: relative;
     font-size: large;
     
+    
 }
 .list ul li input{ border: none; background-color: lightgray;font-size: large; }
 .list ul li input:focus{outline: none;}

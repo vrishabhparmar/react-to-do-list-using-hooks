@@ -12,6 +12,8 @@
    
     
 }
+.InputItem h1 { color: white;}
+
 .InputItem form input:focus{
    outline: none;
 }

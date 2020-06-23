@@ -32,6 +32,7 @@ function Inputform() {
 
     return (
         <div className="InputItem">
+            <h1>To Do List</h1>
              <form>
                     <input type="text"
                     name="item"
